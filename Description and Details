@@ -1,0 +1,31 @@
+Breast Cancer Classification
+
+Introduction
+We have taken problem of classifying nature of breast cancer tumor.
+The purpose of this project is to use deep learning methodology to predict nature of breast cancer tumor. 
+This paper proposes design of Artiﬁcial Neural Network to tackle the chosen problem,moreover it also aims to compare
+performance of various optimizers and loss functions  used in designing of Artiﬁcial Neural Network.
+We proposed that model with Convolution   layers,   having   Drop - Out   and   Batch - Normalization,
+with slow learning rate is best choice since it provide highest accuracy
+
+
+Dataset Details
+Dataset used is “Wisconsin Breast Cancer Dataset”, which is obtained from UCI machine learning repository.
+It has 569 rows and 32 attribute features.
+Features are captured from digitalized image of breast mass.
+ 
+We need all these requirement in our system
+Python
+Python interactive notebook(.ipynb)
+Numpy
+Pandas
+Tensorflow
+Seaborn
+Matplotlib
+Scikit-learn 
+Pyplot
+ 
+
+Preprocessing - Python
+Feature Extraction - Python
+Classification - Python
